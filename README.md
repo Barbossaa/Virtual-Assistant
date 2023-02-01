@@ -1,4 +1,4 @@
-# ChatGPT-Assistant
+# Virtual-Assistant
 Python
 
 Required Google Chrome and an e-mail registered into ChatGPT
